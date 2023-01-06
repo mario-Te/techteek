@@ -1,7 +1,9 @@
-a.edit project confugration:
-1. composer update.
-2. php artisan migrate to build schema into the server.
-3. php artisan serve to run the project.
+a.edit project confugration run the following commands in your terminal:
+1. composer update
+2. npm install
+3. npm run build
+4. php artisan migrate 
+5. php artisan serve 
 
 
 b. how to use:
